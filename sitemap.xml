@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://www.chandraharsha111.com/en/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://www.chandraharsha111.com/authors/</loc>
+  </url>
   
-  <sitemap>
-    <loc>https://www.chandraharsha111.com/pt-br/sitemap.xml</loc>
-    
-  </sitemap>
+  <url>
+    <loc>https://www.chandraharsha111.com/categories/</loc>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://www.chandraharsha111.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.chandraharsha111.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.chandraharsha111.com/tags/</loc>
+  </url>
+  
+</urlset>
