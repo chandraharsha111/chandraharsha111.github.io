@@ -82,5 +82,14 @@
       <description>Bird in the hand is worth two in the bush - Aesop 600BC Investing can simply be put as a process in which upon thorough analysis, promises safety of principal and adequate return. For anyone looking into investing understanding available categories, before thinking about available choices within those categories could help us with rate of return expectations. Broadly speaking I think most investors have these following options available with them</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://www.chandraharsha111.com/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.chandraharsha111.com/readme/</guid>
+      <description> Create new posts using hugo new posts/new-post.md Make sure draft is set to false Use the shell script to make a commit after adding files to staging area(Git) sh ./deploy.sh &amp;ldquo;commit message&amp;rdquo;  </description>
+    </item>
+    
   </channel>
 </rss>
